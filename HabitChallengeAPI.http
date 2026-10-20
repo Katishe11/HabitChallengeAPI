@@ -1,0 +1,6 @@
+@HabitChallengeAPI_HostAddress = http://localhost:5265
+
+GET {{HabitChallengeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
